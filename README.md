@@ -4,12 +4,9 @@ Hola! Soy Belu 👋
 
 🌱 Lenguajes de programación que manejo: Python(con librerías para análisis de datos: Matplotlib, Seaborn, Pandas, NumPy) 
 
-    Herramientas de BI: Power BI, Quicksight
-    
-    Lenguaje de consulta: SQL 
-      
-      
-Actuamente me encuentro cursando un Master en Data Sciencist en Pontia.tech, para adquirir conocimientos sobre Machine Learning y poder aplicarlos laboralmente. 
+Herramientas de BI: Power BI, Quicksight
+
+Lenguaje de consulta: SQL 
 
 
 - 📫 Podes encontrarme y conectar en Linkedin: https://www.linkedin.com/in/mariabelencamandone/
