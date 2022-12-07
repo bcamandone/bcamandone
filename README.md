@@ -12,5 +12,6 @@ Lenguaje de consulta: SQL
 📫 Podes encontrarme y conectar en Linkedin: https://www.linkedin.com/in/mariabelencamandone/  donde comparto contenido sobre todos los temas de ciencia de datos que voy incorporando, asi crecemos juntos! 💡
 
 En mis repositorios vas a encontrar proyectos sobre SQL y python que podes utilizar como ejemplo o para prácticar. 
+
 👏 ¡Por favor, dame un ⭐️ si te gustan mis repositorios!
 
