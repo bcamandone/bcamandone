@@ -4,7 +4,7 @@ Hola! Soy Belu 👋
 
 🌱 Lenguajes de programación que manejo: Python(con librerías para análisis de datos: Matplotlib, Seaborn, Pandas, NumPy) 
 
-Herramientas de BI: Power BI, Quicksight
+Herramientas de BI: Power BI, Quicksight, Tableau
 
 Lenguaje de consulta: SQL 
 
