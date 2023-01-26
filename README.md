@@ -1,5 +1,3 @@
-Hola! Soy Belu 👋
-
 𝗛𝗼𝗹𝗮! 𝗦𝗼𝘆 𝗕𝗲𝗹𝘂 👋
 
 🔎 Te cuento un poco sobre mi: Soy 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 y estoy en formación para convertirme en 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁. Debido a mi carrera previa de contabilidad, puedo analizar datos desde una perspectiva comercial, utilizando diferentes herramientas para procesar y visualizar datos. 
