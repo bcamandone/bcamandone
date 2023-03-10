@@ -31,4 +31,8 @@ En mis repositorios vas a encontrar proyectos sobre SQL y python que podes utili
 
 📧 If you want to chat with me 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲 directly on Linkedin or send me an email: bcamandone@gmail.com
 
+In my repositories you will find projects about SQL and python,  you can use as an example or to practice.
+
+👏 Please give me a ⭐️ if you like my repositories!
+
 
