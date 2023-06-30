@@ -15,8 +15,6 @@ En mis repositorios vas a encontrar proyectos sobre SQL y python que podes utili
 
 𝗛𝗶! 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗕𝗲𝗹𝘂 👋
 
-🔎 I'll tell you a little about myself: I'm a 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 and I'm in training to become a 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁. Because of my accounting career I am able to analyze data from a business perspective, using different tools to process and visualize data.
-
 📧 If you want to chat with me 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲 directly on Linkedin or send me an email: bcamandone@gmail.com
 
 In my repositories you will find projects about SQL and python,  you can use as an example or to practice.
