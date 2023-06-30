@@ -2,9 +2,7 @@
 
 🔎 Te cuento un poco sobre mi con un diccionario en Python 😝💡: 
 
-
-![presentacion](https://github.com/bcamandone/bcamandone/assets/86261762/00d65f92-1e9c-49cf-b86b-fe5709b6ce30)
-
+![presentacion](https://github.com/bcamandone/bcamandone/assets/86261762/c9544e60-99f9-4a91-8f34-58b0e160bf6b)
 
 📫 Podes encontrarme y conectar en Linkedin: https://www.linkedin.com/in/mariabelencamandone/  donde comparto contenido sobre todos los temas de ciencia de datos que voy incorporando, asi crecemos juntos! 💡
 📧 Si queres charlar conmigo 𝗽𝗼𝗱𝗲𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗿𝗺𝗲 directamente por Linkedin o enviarme un mail a bcamandone@gmail.com
