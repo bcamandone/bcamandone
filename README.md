@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hola! Soy belu 👋⁣⁣<br>⁣⁣Actualmente trabajo como  Credits Risk Sr Analyst <br>en Mercado Libre y  soy Profe de SQL.<br>Realice varios programas educativos para adquirir <br>conocimientos en SQL, herramientas de visualización y Python,<br>también profundice en algoritmos de machine learning,<br>en los cuales hoy en día continuo mi formación.<br>
+Hola! Soy belu 👋
+⁣⁣<br>⁣⁣Actualmente trabajo como  Credits Risk Sr Analyst <br>en Mercado Libre y  soy Profe de SQL.<br>Realice varios programas educativos para adquirir <br>conocimientos en SQL, herramientas de visualización y Python,<br>también profundice en algoritmos de machine learning,<br>en los cuales hoy en día continuo mi formación.<br>
 
 
 ## 🌐 Socials:
