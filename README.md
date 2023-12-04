@@ -11,7 +11,7 @@ Hola! Soy belu 👋
 
 
 
-📧 Si queres charlar conmigo 𝗽𝗼𝗱𝗲𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗿𝗺𝗲 directamente por Linkedin o enviarme un mail a bcamandone@gmail.com
+![IMPORTANT]📧 Si queres charlar conmigo 𝗽𝗼𝗱𝗲𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗿𝗺𝗲 directamente por Linkedin o enviarme un mail a bcamandone@gmail.com
 
 📊 En mis repositorios vas a encontrar contenido teórico y práctico sobre: SQL, python, estadística, machine learning y visualización de datos. 
 
