@@ -17,10 +17,11 @@ Hola! Soy belu 👋
 
 👏 ¡Por favor, dame un ⭐️ si te gustan mis repositorios!
 
+
 ![Belu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcamandone&show_icons=true&theme=radical)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcamandone&hide_progress=true)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
