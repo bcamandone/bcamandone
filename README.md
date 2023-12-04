@@ -11,11 +11,16 @@ Hola! Soy belu 👋
 
 
 
-.![IMPORTANT]. 📧 Si queres charlar conmigo 𝗽𝗼𝗱𝗲𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗿𝗺𝗲 directamente por Linkedin o enviarme un mail a bcamandone@gmail.com
+📧 Si queres charlar conmigo 𝗽𝗼𝗱𝗲𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗿𝗺𝗲 directamente por Linkedin o enviarme un mail a bcamandone@gmail.com
 
 📊 En mis repositorios vas a encontrar contenido teórico y práctico sobre: SQL, python, estadística, machine learning y visualización de datos. 
 
 👏 ¡Por favor, dame un ⭐️ si te gustan mis repositorios!
+
+![Belu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcamandone&show_icons=true&theme=radical)
+
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
