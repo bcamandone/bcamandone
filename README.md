@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hola! Soy belu 👋
-⁣⁣<br>⁣⁣Actualmente trabajo como  Credits Risk Sr Analyst en Mercado Libre y  soy Profe de SQL y Análisis de datos con Python en el instituto CPE. Realice varios programas educativos para adquirir conocimientos en SQL, herramientas de visualización y Python,también profundice en algoritmos de machine learning, en los cuales hoy en día continuo mi formación.
+⁣⁣<br>⁣⁣Actualmente trabajo como  Credits Risk Sr Analyst en Mercado Libre y  soy Profe de SQL y Análisis de datos con Python en el instituto CPE. 
+Me recibí de Contadora Pública en 2014 en la Universidad Nacional del Litoral y luego realice varios programas educativos para adquirir conocimientos en SQL, herramientas de visualización y Python,también profundice en algoritmos de machine learning, en los cuales hoy en día continuo mi formación.
+Me defino como una aprendiz de por vida, que siempre está buscando mejorar sus habilidades y estar al día con las últimas tendencias de la industria y tecnologías.
 
 
 ## 🌐 Socials:
