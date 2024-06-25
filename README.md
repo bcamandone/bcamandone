@@ -6,9 +6,6 @@ Me recibí de Contadora Pública en 2014 en la Universidad Nacional del Litoral 
 
 Me defino como una aprendiz de por vida, que siempre está buscando mejorar sus habilidades y estar al día con las últimas tendencias de la industria y tecnologías.
 
-
-## 🌐 Socials:
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariabelencamandone) 
 
